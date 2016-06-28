@@ -1,0 +1,42 @@
+h1{
+  font-family: sans-serif;
+  margin-left: 50px;
+}
+
+a{
+  color: red;
+  text-decoration: none;
+}
+
+p{
+  margin-left: 50px;
+
+}
+
+div{
+  width: 500px;
+  height: 250px;
+  background: red;
+  margin: auto;
+  text-align: center;
+}
+
+
+ol:nth-child(1){
+  color: blue;
+}
+ol:nth-child(2){
+  color: green;
+}
+ol:nth-child(3){
+  color: red;
+}
+ol:nth-child(4){
+  color: yellow;
+}
+
+blockquote{
+  border: 1px solid grey;
+  text-align: justify;
+  margin-left: 0;
+}
